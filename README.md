@@ -1,3 +1,3 @@
 # Bio-medSummNER-ru-
-Summarization of medical texts with automatic markup of named entities
+Summarization of Russian medical texts with automatic markup of named entities
 (BA thesis)
